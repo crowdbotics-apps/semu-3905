@@ -1,0 +1,3 @@
+rootProject.name = 'semu_3905'
+
+include ':app'
